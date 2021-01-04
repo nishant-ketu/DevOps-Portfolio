@@ -2503,7 +2503,7 @@ a.topbar-btn.active {
 .sec-title-container {
   width: 100%;
   float: left;
-  padding-bottom: 120px;
+  padding-bottom: 20px;
 }
 .sec-title-container.less-padding-1 {
   padding-bottom: 60px;
